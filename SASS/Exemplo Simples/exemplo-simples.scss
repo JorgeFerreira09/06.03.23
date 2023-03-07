@@ -1,0 +1,22 @@
+/* defina variaveis para cores primárias */
+$primary_1: #a2b9bc; 
+$primary_2: #b2ad7f;
+$primary_3: #878f99;
+
+/* Uso de variaveis */
+.borda1 {
+    border: 1px solid $primary_1;
+    background-color: $primary_1;
+}
+
+.borda2 {
+    border: 1px solid $primary_2;
+    background-color: $primary_2;
+}
+
+.borda3 {
+    border: 1px solid $primary_3;
+    background-color: $primary_3;
+}
+
+

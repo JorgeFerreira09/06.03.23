@@ -1,0 +1,20 @@
+$myFont: Helvetica, sans-serif;
+$myFontSize: 18px;
+$myWidth: bold;
+$myTransfor: lowercase;
+$myOverflow: hidden;
+$myAlign: center;
+
+p {
+font: {
+    family: $myfont;
+    size: $myFontSize;
+    weight: $mywidth;
+}
+
+text: {
+    align: $myAlign;
+    transform: $myTransform;
+    overflow: $myOverflow;
+}
+}

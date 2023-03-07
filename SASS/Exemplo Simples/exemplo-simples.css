@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* defina variaveis para cores primárias */
+/* Uso de variaveis */
+.borda1 {
+  border: 1px solid #a2b9bc;
+  background-color: #a2b9bc;
+}
+
+.borda2 {
+  border: 1px solid #b2ad7f;
+  background-color: #b2ad7f;
+}
+
+.borda3 {
+  border: 1px solid #878f99;
+  background-color: #878f99;
+}/*# sourceMappingURL=exemplo-simples.css.map */
